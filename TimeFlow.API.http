@@ -1,0 +1,6 @@
+@TimeFlow.API_HostAddress = http://localhost:5104
+
+GET {{TimeFlow.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
