@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeFlow.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c00dd018bf9434aa0987ca812120317664a087a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeFlow.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeFlow.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
