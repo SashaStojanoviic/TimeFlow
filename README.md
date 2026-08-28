@@ -1,7 +1,5 @@
 # ⏳ TimeFlow
 
-> Ett modernt och skräddarsytt tidrapporteringssystem för bemanningsföretaget TeamPower Group Sweden AB.
-
 TimeFlow är en fullstack webbapplikation byggd för att förenkla tidrapportering, attestering och kundhantering för konsulter och konsultchefer hos TeamPower. Applikationen är uppdelad i en modern React-frontend och en C# .NET Web API-backend kopplad till Supabase (PostgreSQL).
 
 ---
